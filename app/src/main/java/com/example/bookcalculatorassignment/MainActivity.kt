@@ -7,9 +7,7 @@ import android.widget.Button
 import kotlinx.android.synthetic.main.activity_main.*
 
 class MainActivity : AppCompatActivity() {
-
-    //Test for github branches
-    private var gitTest: Long = 0
+    
     private var number1: Long = 0
     private var number2: Long = 0
     private var isSecondNum: Boolean = false
